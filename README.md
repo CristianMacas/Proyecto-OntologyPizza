@@ -16,6 +16,8 @@ LOJA – ECUADOR
 
 CHATBOT TELEGRAM CJPIZZA_BOT
 
+http://t.me/CjPizza_bot
+
 INTRODUCCIÓN
 
 En el siglo XXI, la tecnología lo es todo; y más en este mismo momento donde estamos cruzando una pandemia mundial, por lo que debemos considerar todas las herramientas que la tecnología nos provee para satisfacer nuestras necesidades. Tomando en cuenta esto, existe la herramienta Telegram que es un sistema de mensajería el cuál nos permite crear chatbots para configurarlos y hacer lo que queramos con ellas. En este caso tomamos la idea de Venta de Pizzas a través del bot.
